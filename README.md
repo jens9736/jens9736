@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jens9736
 - 👀 I’m interested in social justice and democracy
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on diversity, equity and inclusion
+- 💞️ I’m looking to collaborate on diversity, equity and inclusion in tech and everywhere else
 - 📫 You can reach me at Historiana1619@gmail.com
 
 <!---
